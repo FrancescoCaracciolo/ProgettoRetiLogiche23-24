@@ -13,5 +13,7 @@ Voto Progetto: 30L/30
 - `tb-generator` - cartella contenente uno script per generare casi di test 
 - `VHDL` - cartella con il codice VHDL diviso in file diversi per maggiore ordine
 
+## Schemi
+![https://github.com/FrancescoCaracciolo/ProgettoRetiLogiche23-24/blob/main/LaTeX/schema.drawio.png?raw=true](https://github.com/FrancescoCaracciolo/ProgettoRetiLogiche23-24/blob/main/LaTeX/FSM.png?raw=true)
 
-
+![https://github.com/FrancescoCaracciolo/ProgettoRetiLogiche23-24/blob/main/LaTeX/FSM.png?raw=true](https://github.com/FrancescoCaracciolo/ProgettoRetiLogiche23-24/blob/main/LaTeX/schema.drawio.png)
